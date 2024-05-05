@@ -126,6 +126,7 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+#### Web Dynamics
 
 ## Examples of use
 ```
@@ -160,5 +161,6 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+Third Part of Airbnb: Oluwaseun Akinbo
 ## License
 Public Domain. No copy write protection. 
